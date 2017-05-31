@@ -11,7 +11,7 @@ Can we build a data-driven model of the binary fraction and binary mass ratio di
 - can we do it independent of the initial mass function (IMF)?
 
 My thinking is calibrated on this figure from [Hurley & Tout (1998)](http://adsabs.harvard.edu/abs/1998MNRAS.300..977H)
-![]('figures/hurley1998_fig1.png')
+![](figures/hurley1998_fig1.png)
 
 ## Assumptions
 - Stars are either singles or doubles
