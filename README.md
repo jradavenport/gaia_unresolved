@@ -22,3 +22,10 @@ My thinking is calibrated on this figure from [Hurley & Tout (1998)](http://adsa
 - need to model as fraction of binaries and single stars at each mass
 - We *should* see the equal-mass (parallel) main sequence in Gaia field data, as is seen in many Open Clusters at ~0.75 mag brighter
 - **Cheesy:** Can we find any sign of a THIRD main sequence from equal-mass tripples (~1.2 mag brigher)?
+
+
+## AstroHackWeek Results
+
+1) I can make this figure with isochrones, and it overlaps Gaia data nicely!
+2) there might be some evidence for triple stars above the double-star main sequence
+3) doing some basic plots of "caustics" that result from distributions of triple-star masses...
