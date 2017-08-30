@@ -21,4 +21,4 @@ My thinking is calibrated on this figure from [Hurley & Tout (1998)](http://adsa
 - Binaries with mass ratios closer to *q*=1 are of course easier to detect
 - need to model as fraction of binaries and single stars at each mass
 - We *should* see the equal-mass (parallel) main sequence in Gaia field data, as is seen in many Open Clusters at ~0.75 mag brighter
-- **Cheesy:** Can we find any sign of a THIRD main sequence from equal-mass tripples (~1.5 mag brigher)?
+- **Cheesy:** Can we find any sign of a THIRD main sequence from equal-mass tripples (~1.2 mag brigher)?
